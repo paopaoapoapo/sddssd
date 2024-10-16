@@ -1,0 +1,30 @@
+body { 
+    background-color: rgb(223, 161, 161);
+    
+    }
+    h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    
+    
+    }
+    p{
+        color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 20px;}
+
+.nando{
+border-style: solid;
+border-color: black;
+width: 300px;
+margin-left: 100px ;
+margin-bottom: 100px;
+margin-top: 50px;
+padding-left: 15px;
+padding-bottom: 20px;
+padding-right: 15px;
+padding-top: 20px;
+
+
+}
+
